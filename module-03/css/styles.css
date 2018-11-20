@@ -44,9 +44,9 @@ html, body {
 }
 
 .button {
-    background-position:center;
+    background-position: center;
     text-align: center;
     margin: auto;
-    vertical-align: sub;
+    vertical-align: top;
 }
 
