@@ -36,12 +36,17 @@ html, body {
     margin-right: 0;
 }
 
-.conteiner article img1, img2 {
-    display: inline-block;
-}
 .conteiner article {
-    width: 420px;
+    display: inline-block;
+    width: 350px;
+    height: 480px;
     margin-right: 60px;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+
+.color-aqva {
+    color: aqua;
 }
 
 .futter-page {
